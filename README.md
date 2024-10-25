@@ -6,7 +6,8 @@ This is a unstable version of Interstellar rewritten from the ground up. Expect 
 
 ```sh
 pnpm i
-pnpm disable # Optional: Disables Astro's Telemetry - https://astro.build/telemetry
+pnpm enable
+ # Optional: Disables Astro's Telemetry - https://astro.build/telemetry
 pnpm dev
 ```
 
